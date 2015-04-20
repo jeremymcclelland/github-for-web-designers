@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 This is the correct change
-=======
-This is the change I don’t want
->>>>>>> master
